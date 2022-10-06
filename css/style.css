@@ -1,0 +1,232 @@
+body {
+    background: lightslategray;
+}
+
+header {
+    text-align: center;
+    color:#FFF;
+}
+
+header img {
+    
+    margin:auto;
+    margin-left:00px;
+}
+
+.container {
+    width:82.1%;
+    border:1px solid darkorange;
+    border-radius:5px;
+    height:110px;
+    margin-left:120px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dia1 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:4px;
+    background: #CCC;   
+    border-radius:5px;
+}
+
+.dia1 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia1 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+
+.dia2 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:6px;
+    background: #CCC;
+    border-radius:5px;
+    
+}
+
+.dia2 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia2 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia3 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:6px;
+    background: #CCC;
+    border-radius:5px;   
+}
+
+.dia3 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia3 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia4 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:6px;
+    background: #CCC;
+    border-radius:5px;   
+}
+
+.dia4 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia4 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia5 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:6px;
+    background: #CCC;
+    border-radius:5px;   
+}
+
+.dia5 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia5 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia6 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:6px;
+    background: #CCC;
+    border-radius:5px;   
+}
+
+.dia6 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia6 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia7 {
+    width:150px;
+    height:100px;
+    border:1px solid lightcoral;
+    text-align: center;
+    margin-top:4px;
+    margin-left:6px;
+    background: #CCC;   
+    border-radius:5px;
+}
+
+.dia7 button {
+    width:140px;
+    height: 30px;
+    border:none;
+    border-radius:5px;
+    background: cornflowerblue ;
+    font-weight: bold;
+    transition: linear 400ms;
+    color:#FFF;
+}
+
+.dia7 button:hover {
+    background:orange;
+    cursor:pointer;
+    transition: linear 400ms;
+    color:#FFF;
+}
